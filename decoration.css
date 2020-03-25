@@ -1,0 +1,31 @@
+body{
+  background-color: #0f47a8;
+}
+
+.main_block{
+background-color: pink;
+height: 500px;
+width: 500px;
+position: absolute;
+left: 420px;
+top:100px;
+}
+
+h1
+{
+  text-align: center;
+  background-color: red;
+}
+
+h2{
+  background-color: blue;
+  color:white;
+text-align: center;
+}
+button{
+  color: white;
+  background-color: red;
+  width: 500px;
+  height:50px;
+
+}
